@@ -1,0 +1,8 @@
+﻿target/
+.classpath
+.project
+.settings/
+.factorypath
+.env
+application-local.properties
+src/main/resources/application.properties
